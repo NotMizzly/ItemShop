@@ -2,62 +2,68 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaGlider:Umbrella_Season_05"
+            "AthenaGlider:Umbrella_Snowflake"
         ],
         "price": 200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaDance:EID_UkuleleTime"
+            "AthenaDance:EID_IndigoApple"
         ],
         "price": 500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_085_Beach"
+            "AthenaBackPack:BID_229_LuckyRiderMale"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaContrail:Trails_ID_063_BeachBalls"
+            "AthenaPickaxe:Pickaxe_ID_102_RedRiding"
         ],
-        "price": 300
+        "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_AfroHouse"
+            "AthenaDance:EID_Floss"
         ],
         "price": 500
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
+            "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"
         ],
-        "price": 500
+        "price": 800
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_460_Athena_Commando_F_BriteBomberSummer"
+            "AthenaCharacter:CID_028_Athena_Commando_F"
         ],
         "price": 2500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_461_Athena_Commando_M_DriftSummer"
+            "AthenaCharacter:CID_653_Athena_Commando_F_UglySweaterFrozen"
         ],
         "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaBackPack:BID_304_Duck"
+            "AthenaBackPack:BID_004_BlackKnight"
         ],
-        "price": 0
+        "price": 200
     },
     "featured4": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_073_Balloon"
+            "AthenaPickaxe:Pickaxe_ID_376_FNCS"
         ],
-        "price": 800
+        "price": 1000
+            },
+    "featured5": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_112_GuanYu"
+        ],
+        "price": 500
     }
 }
